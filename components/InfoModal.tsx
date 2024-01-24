@@ -5,7 +5,6 @@ import PlayButton from "./PlayButton";
 import FavoriteButton from "./FavoriteButton";
 import useInfoModal from "@/hooks/useInfoModal";
 import useMovie from "@/hooks/useMovie";
-import { title } from "process";
 
 interface InfoModalProps {
   visible?: boolean;
